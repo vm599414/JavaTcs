@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="171" started-at="2018-08-06T02:37:01Z" finished-at="2018-08-06T02:37:01Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="171" started-at="2018-08-06T02:37:01Z" finished-at="2018-08-06T02:37:01Z">
+      <class name="com.steel.NewTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.steel.NewTest@34c75a]" name="beforeMethod" is-config="true" duration-ms="25" started-at="2018-08-06T02:37:01Z" finished-at="2018-08-06T02:37:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.steel.NewTest@34c75a]" name="f" duration-ms="29" started-at="2018-08-06T02:37:01Z" finished-at="2018-08-06T02:37:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.steel.NewTest@34c75a]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-08-06T02:37:01Z" finished-at="2018-08-06T02:37:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.steel.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
